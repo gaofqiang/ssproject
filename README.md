@@ -1,0 +1,4 @@
+ssproject
+=========
+
+springside based project
